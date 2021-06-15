@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ali{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.ali{
+    color: rgb(8, 12, 221);
+}
+.ali h2{
+    color: brown;
+
+}
+.ali h3{
+    color: chocolate;
+}
+.ali h4{
+    color: darkgreen;
+}
+.ali h5{
+    color: darkred;
+}
+.ali h6{
+    color: deeppink;
+}
+.pic_img{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.text_part{
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+    color: firebrick;
+}
